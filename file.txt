@@ -4,4 +4,8 @@ aaaaaaaaaa
 Zkouška commit příkazu!
 Další zkouška!
 skuska3
+skuska
+skuska
+skuska
+
 >>>>>>> branch 'master' of https://github.com/andAdam/hotel.git
