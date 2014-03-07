@@ -8,4 +8,5 @@ skuska
 skuska
 skuska
 aaa
+b
 >>>>>>> branch 'master' of https://github.com/andAdam/hotel.git
