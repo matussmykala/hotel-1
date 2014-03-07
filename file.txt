@@ -7,5 +7,5 @@ skuska3
 skuska
 skuska
 skuska
-
+aaa
 >>>>>>> branch 'master' of https://github.com/andAdam/hotel.git
