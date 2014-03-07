@@ -1,12 +1,2 @@
-<<<<<<< HEAD
-aaaaaaaaaa
-=======
 Zkouška commit příkazu!
 Další zkouška!
-skuska3
-skuska
-skuska
-skuska
-aaa
-b
->>>>>>> branch 'master' of https://github.com/andAdam/hotel.git
